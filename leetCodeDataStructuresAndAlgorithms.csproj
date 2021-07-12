@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayExercises\DuplicateZeros.cs" />
+    <Compile Include="ArrayExercises\MergeSortedArray.cs" />
+    <Compile Include="ArrayExercises\RemoveElement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
